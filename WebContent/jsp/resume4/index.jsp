@@ -190,7 +190,7 @@ body {font-family: Arial;}
   		
   		<!-- Breadcrumb Navbar -->
 					<ul class="breadcrumb">
-				  <li><a href="http://resume-project-5317ed.webflow.io/">Home</a></li>
+				  <li><a href="http://localhost:9090/ResumeComp/jsp/index.jsp">Home</a></li>
 				  <li>Template 4</li>
 				</ul>
 		</p>		
